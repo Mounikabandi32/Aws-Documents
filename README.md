@@ -1,4 +1,4 @@
-# image-folder
+# Apache installation
 ```
 #!/bin/bash
 # Update the package repository
